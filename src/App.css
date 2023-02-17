@@ -1,0 +1,24 @@
+body{
+   background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(79,107,115,1) 100%);
+}
+.clock{
+   width:95vw;
+   height: 95vh;
+   overflow: hidden;
+   text-align: center;
+}
+.clock h1{
+   border: 2px solid burlywood;
+   width: 250px;
+   margin: 40vh auto 0px auto;
+   border-radius: 15px;
+   padding: 10px 0;
+   background-color: cornsilk;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+
+}
+
+h1{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color:burlywood ;
+}
